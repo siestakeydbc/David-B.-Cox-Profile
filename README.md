@@ -1,6 +1,6 @@
 # 👋 Welcome to Cloudpuncher
 
-I'm David Cox — a Junior Cloud Pentester and Offensive Security Trainee, pivoting from healthcare IT into red teaming and cloud exploitation.
+I'm David B. Cox — a Junior Cloud Pentester and Offensive Security Trainee, pivoting from healthcare IT into red teaming and cloud exploitation.
 
 My work focuses on building real-world tools and writeups for penetration testing, especially in AWS environments. I’m blending AI red teaming with hands-on labs from HTB, TryHackMe, and TCM, and documenting my process along the way.
 
