@@ -11,7 +11,7 @@ My work focuses on building real-world tools and writeups for penetration testin
 ## 🔍 Current Focus Areas
 
 - ☁️ AWS Security & Cloud Misconfigurations
-- 🔐 Offensive Security Certifications (eJPT, PNPT)
+- 🔐 Offensive Security Certifications (eJPT, PNPT, OSCP)
 - 🤖 AI-Augmented Recon and Prompt Engineering (Ollama + Zettlr)
 - 📜 Writeups and tooling built from hands-on labs (HTB, TryHackMe)
 
