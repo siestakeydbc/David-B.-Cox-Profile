@@ -1,43 +1,61 @@
 # 👋 Welcome to cloudpunchr
+Hi, I’m **David Brooks Cox** — a Junior Cloud Pentester and Cybersecurity Professional, pivoting from healthcare IT into red teaming and cloud exploitation.  
+I’m also open to **Blue Team / SOC Analyst / IAM / Security Analyst** roles as I build deeper expertise in **AI-assisted penetration testing and cloud defense**.
 
-I'm David B. Cox — a Junior Cloud Pentester and Offensive Security Professional, pivoting from healthcare IT into red teaming and cloud exploitation.
-
-My work focuses on building real-world tools and writeups for penetration testing, especially in AWS environments. I’m blending AI red teaming with hands-on labs from HTB, TryHackMe, and TCM, and documenting my process along the way.
-
-> Junior Cloud Pentester | Offensive Security Trainee | Custom tools + writeups | [cloudpuncher.dev](https://cloudpuncher.dev)
+> “Leading with experience, pivoting with purpose — from healthcare IT to Cloud Pentesting and AI Red Teaming.”
 
 ---
 
-## 🔍 Current Focus Areas
-
-- ☁️ AWS Security & Cloud Misconfigurations
-- 🔐 Offensive Security Certifications (eJPT, PNPT, OSCP)
-- 🤖 AI-Augmented Recon and Prompt Engineering (Ollama + Zettlr)
-- 📜 Writeups and tooling built from hands-on labs (HTB, TryHackMe)
+### 🎯 Current Focus Areas
+- **AWS Security & Cloud Configurations**
+- **SOC & Blue Team Operations** (Josh Matador Internship, TryHackMe, HTB)
+- **Offensive Security Certifications** (eJPT, PNPT, OSCP)
+- **AI-Augmented Red Teaming** (Ollama + Zettlr + local LLM tooling)
+- **Cybersecurity Writing & Reporting** for documentation and note workflows
 
 ---
 
-## 🧰 Featured Projects
-
+### 🧩 Featured Projects
 | Project | Description |
-|--------|-------------|
-| 🔹 [HTB Blue Writeup](https://github.com/siestakeydbc/cloudpunchr-tools/tree/main/htb-blue-writeup) | Step-by-step retired box walkthrough with screenshots & task responses |
-| 🔹 [S3 Bucket Exploiter](https://github.com/siestakeydbc/cloudpunchr-tools/tree/main/s3-bucket-exploiter) | Tool to detect & exploit public S3 buckets |
-| 🔹 [AI Prompt Vault (Red Team)](https://github.com/siestakeydbc/cloudpunchr-tools) | Prompt launcher and pentesting prompt archive for Zettlr/Ollama |
+|:--|:--|
+| [HTB Blue Writeups](https://github.com/siestakeydbc/cloudpunchr-tools/tree/main/htb-blue-writeup) | Step-by-step retired box walkthroughs with screenshots & task responses |
+| [S3 Bucket Exploiter](https://github.com/siestakeydbc/cloudpunchr-tools/tree/main/s3-bucket-exploiter) | Tool to detect & exploit public S3 buckets |
+| [AI Prompt Vault (Red Team)](https://github.com/siestakeydbc/cloudpunchr-tools) | Prompt launcher and pentesting prompt archive for Zettlr/Ollama |
+| [AI RedTeam Toolkit](https://github.com/siestakeydbc/AI-RedTeam-Toolkit) | AI-assisted workflow tools for pentesting & adversarial testing |
 
 ---
 
-## 🎓 Education & Credentials
-
-- 🎓 Master's in Cybersecurity Strategy & Information Management – The George Washington University
-- ✅ INE Certified Cloud Associate (ICCA)
-- 🎯 Pursuing eJPT, PNPT, AWS Cloud Practitioner
+### 🧠 Current Learning & Labs
+| Domain | Platform / Path |
+|:--|:--|
+| **Blue Team / SOC Analysis** | Josh Matador Labs Internship, TryHackMe SOC Rooms |
+| **Defensive Security** | CyberDefenders Challenges, BlueTeamLabs, Splunk |
+| **Certifications** | CompTIA Security+ (in progress), eJPTv2, AWS Cloud Practitioner |
+| **Cloud & AI Security** | Cybr.com Labs, A Cloud Guru, HaxorPlus AI Pentester Training |
 
 ---
 
-## 🌐 Connect With Me
+### 🎓 Education & Credentials
+- **M.S. in Cybersecurity Strategy & Information Management** — *The George Washington University*  
+- **INE Certified Cloud Associate (ICCA)**  
+- **Security+ (in progress)**  
+- **Josh Matador Labs Internship — SOC Level 1 & Threat Hunting**
 
-- Portfolio: [cloudpuncher.dev](https://cloudpuncher.dev)
-- LinkedIn: [davidbrookscox](https://linkedin.com/in/davidbrookscox)
-- GitHub: [siestakeydbc](https://github.com/siestakeydbc)
-- Twitter: [@dcpentester](https://twitter.com/dcpentester)
+---
+
+### ⚙️ Technical Stack
+- **OS / Setup:** Kali Linux (ARM) · VMware Fusion Pro (macOS M3)
+- **Languages:** Python · Bash · Zsh  
+- **Tools:** Nmap · Wireshark · BurpSuite · Metasploit · Spiderfoot · Holehe · Sherloq  
+- **Docs:** Zettlr + AI Markdown pipelines · CLI reporting automations  
+- **Cloud:** AWS Free Tier · Terraform basics · IAM security focus  
+
+---
+
+### 🔗 Connect With Me
+- 🌐 **Portfolio:** [cloudpuncher.dev](https://cloudpuncher.dev)  
+- 💼 **LinkedIn:** [linkedin.com/in/davidbrookscox](https://linkedin.com/in/davidbrookscox)  
+- 💻 **GitHub:** [github.com/siestakeydbc](https://github.com/siestakeydbc)  
+- 🧠 **Medium:** [medium.com/@dcpentester](https://medium.com/@dcpentester)
+
+---
